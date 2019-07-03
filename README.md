@@ -1,3 +1,3 @@
 # java
-For CI only
-Hello
+For CI 
+Hello "this is my first program"
